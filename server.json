@@ -1,0 +1,44 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Ao molho",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "19.90",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Veggie",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "21.90",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "name": "Sashimi",
+      "image": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-2077-331ef76ef35857f2aa6a6217856740e0.jpg",
+      "price": "24,99",
+      "description": "Rendimento: 5 porções Molho1) Junte o shoyo, o gengibre e o suco de limão; 2) Reserve; Sashimi3) Corte o repolho com um ... Ingredientes 30 g de ovas de salmão 300 g de filé de tilápia 2 colheres (sopa) de suco de limão 300 g de repolho 1 colher (sopa) de gengibre ralado",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Costela",
+      "image": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/costela-de-forno.jpg",
+      "price": "30",
+      "description": "Rendimento: 6 porções",
+      "available": true
+    }
+  ]
+}
